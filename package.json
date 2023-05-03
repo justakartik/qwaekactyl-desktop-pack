@@ -1,6 +1,6 @@
 {
   "name": "qwaekactyl-desktop-pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helps to install all needed npm package at once for Qwaekactyl Desktop.",
   "main": "index.js",
   "scripts": {
