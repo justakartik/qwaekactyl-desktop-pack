@@ -1,0 +1,21 @@
+{
+  "name": "qwaekactyl-desktop-pack",
+  "version": "0.0.1",
+  "description": "Helps to install all needed npm package at once for Qwaekactyl Desktop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justakartik/"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "justakartik",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.1.3"
+  }
+}
